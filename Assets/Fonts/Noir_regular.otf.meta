@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b40e7306dec7c13468b4ab3238061ae8
+timeCreated: 1504069603
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noir
+  fontNames:
+  - Noir
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5276443a9234e1748a9987b947c6198e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
